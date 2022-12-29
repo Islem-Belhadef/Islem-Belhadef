@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Mobile Developement
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on a small startup project
-- 📫 You can reach me on: islem.belhadef2002@gmail.com
+- 📫 You can reach me on: islem.belhadef.dev@gmail.com
 - 🧠 I know HTML, CSS, Javascript, PHP, Dart, Java, C, SQL and NoSQL
 - 💻 I use React.js, Node.js, Laravel, Flutter, TailwindCSS, Bootstrap, MySQL, OracleSQL, MongoDB 
 
