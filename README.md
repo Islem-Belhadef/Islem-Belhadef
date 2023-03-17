@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Islem-Belhadef
 - 👀 I’m interested in Web and Mobile Developement
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently working on my bachelor degree project
 - 💞️ I’m looking to collaborate on a small startup project
 - 📫 You can reach me on: islem.belhadef.dev@gmail.com
 - 🧠 I know HTML, CSS, Javascript, PHP, Dart, Java, C, SQL and NoSQL
