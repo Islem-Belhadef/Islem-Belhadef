@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Islem-Belhadef
 - 👀 I’m interested in Web and Mobile Developement
-- 🌱 I’m currently working on an E-commerce website
 - 📫 You can reach me on: islem.belhadef.dev@gmail.com
-- 🧠 I know HTML, CSS, Javascript, PHP, Dart, Java, C, SQL and NoSQL
-- 💻 I use React.js, Node.js, Laravel, Flutter, TailwindCSS, Bootstrap, MySQL, OracleSQL, MongoDB 
+- 🧠 Working on 5 projects simultaneously
+- 💻 Tech stack: Laravel, React and Flutter
 
 <!---
 Islem-Belhadef/Islem-Belhadef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
